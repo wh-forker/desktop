@@ -8,4 +8,6 @@ linux:
     - deb
     - rpm
     - AppImage
+  desktop:
+    StartupWMClass: "github desktop"
   maintainer: "GitHub, Inc <opensource+desktop@github.com>"
